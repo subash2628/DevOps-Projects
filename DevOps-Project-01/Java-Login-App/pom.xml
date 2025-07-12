@@ -80,4 +80,12 @@
     </repository>
 </distributionManagement> 
 
+	<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0aawqnldegoj-artifactory-primary-0-snapshots</name>
+        <url>https://trialjr6wax.jfrog.io/artifactory/test-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
+
 </project>
